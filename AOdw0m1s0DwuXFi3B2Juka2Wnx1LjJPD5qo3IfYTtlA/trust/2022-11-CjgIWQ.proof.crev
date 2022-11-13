@@ -1,0 +1,20 @@
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: 2022-11-13T22:37:46.051620290+00:00
+from:
+  id-type: crev
+  id: AOdw0m1s0DwuXFi3B2Juka2Wnx1LjJPD5qo3IfYTtlA
+ids:
+- id-type: crev
+  id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+  url: https://github.com/dpc/crev-proofs
+trust: high
+comment: |-
+  Rust OG; ongoing contributor to several of my rust-bitcoin crates; creator
+  of the rust-secp256k1 crate; creator of crev :). Have worked with him personally
+  for 8 years or so, in the rust-bitcoin ecosystem, although I have never met him.
+----- SIGN CREV PROOF -----
+zCqDZlegrSuengnBcsLxPPfmGcVzzJP_5g5LA5phvNYaC0-KsrVJCLjMweiEzylCM18vXHQoe1HwVaog1PIPAw
+----- END CREV PROOF -----
+
