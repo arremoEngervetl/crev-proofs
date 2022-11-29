@@ -1,0 +1,26 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2022-11-29T20:03:48.826650796+00:00
+from:
+  id-type: crev
+  id: AOdw0m1s0DwuXFi3B2Juka2Wnx1LjJPD5qo3IfYTtlA
+  url: https://github.com/apoelstra/crev-proofs
+package:
+  source: https://crates.io
+  name: bitcoin
+  version: 0.29.2
+  revision: fa8ff23b9846cba45ba52f876dcab80c97588e63
+  digest: VF1ncyof2Ogw_MUvTPHGLP2CHLDe4eDZOOXIWCSGupQ
+review:
+  thoroughness: medium
+  understanding: high
+  rating: positive
+comment: |-
+  This is my crate. This version, 0.29.2, brings us to Rust 2018. This library
+  is still unstable and going to have dramatic API changes over the next several
+  versions, but to the best of my knowledge it has no security issues.
+----- SIGN CREV PROOF -----
+xzQF81HcDRyVO35Rr_CrvFCP--IVhOzQd6QwY4-er4gdPYpJI62BynuHeE5UgxNuCN_LBScCldULWiIK3HaUAg
+----- END CREV PROOF -----
+
